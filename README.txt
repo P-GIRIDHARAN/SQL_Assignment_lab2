@@ -12,11 +12,11 @@ Steps to execute the SQL scripts:
    - q4.sql
    - q5.sql
 5. You can then call each stored procedure to test it. For example:
-   CALL ListAllSubscribers();
-   CALL GetWatchHistoryBySubscriber(1);
-   CALL AddSubscriberIfNotExists('New Subscriber Name');
-   CALL SendWatchTimeReport();
-   CALL PrintAllSubscribersWatchHistory();
+   1.CALL ListAllSubscribers();
+   2.CALL GetWatchHistoryBySubscriber(1);
+   3.CALL AddSubscriberIfNotExists('New Subscriber Name');
+   4.CALL SendWatchTimeReport();
+   5.CALL PrintAllSubscribersWatchHistory();
 
 Git repository link:
 https://github.com/P-GIRIDHARAN/SQL_Assignment_lab2
