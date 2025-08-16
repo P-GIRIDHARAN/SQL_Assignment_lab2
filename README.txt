@@ -19,4 +19,4 @@ Steps to execute the SQL scripts:
    CALL PrintAllSubscribersWatchHistory();
 
 Git repository link:
-<your_git_repo_link_here>
+https://github.com/P-GIRIDHARAN/SQL_Assignment_lab2
